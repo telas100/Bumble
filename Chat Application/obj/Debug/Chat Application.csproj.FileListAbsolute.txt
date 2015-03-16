@@ -1,0 +1,34 @@
+d:\données\documents\visual studio 2013\Projects\Chat Application\Chat Application\bin\Debug\Chat Application.exe.config
+d:\données\documents\visual studio 2013\Projects\Chat Application\Chat Application\bin\Debug\Chat Application.exe
+d:\données\documents\visual studio 2013\Projects\Chat Application\Chat Application\bin\Debug\Chat Application.pdb
+d:\données\documents\visual studio 2013\Projects\Chat Application\Chat Application\obj\Debug\Chat Application.csprojResolveAssemblyReference.cache
+d:\données\documents\visual studio 2013\Projects\Chat Application\Chat Application\obj\Debug\Chat_Application.Bumble.resources
+d:\données\documents\visual studio 2013\Projects\Chat Application\Chat Application\obj\Debug\Chat_Application.Properties.Resources.resources
+d:\données\documents\visual studio 2013\Projects\Chat Application\Chat Application\obj\Debug\Chat Application.csproj.GenerateResource.Cache
+d:\données\documents\visual studio 2013\Projects\Chat Application\Chat Application\obj\Debug\Chat Application.exe
+d:\données\documents\visual studio 2013\Projects\Chat Application\Chat Application\obj\Debug\Chat Application.pdb
+D:\Données\Documents\Visual Studio 2013\Projects\Chat Application\Chat Application\obj\Debug\Chat_Application.Connection.resources
+F:\C#\Chat Application\Chat Application\bin\Debug\Chat Application.exe.config
+F:\C#\Chat Application\Chat Application\obj\Debug\Chat Application.exe
+F:\C#\Chat Application\Chat Application\obj\Debug\Chat Application.pdb
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\bin\Debug\Chat Application.exe.config
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\obj\Debug\Chat Application.exe
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\obj\Debug\Chat Application.pdb
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\obj\Debug\Chat Application.csprojResolveAssemblyReference.cache
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\obj\Debug\Chat_Application.Bumble.resources
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\obj\Debug\Chat_Application.Connection.resources
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\obj\Debug\Chat_Application.Properties.Resources.resources
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\obj\Debug\Chat_Application.tabChatClient.resources
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\obj\Debug\Chat Application.csproj.GenerateResource.Cache
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\bin\Debug\Chat Application.exe
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\bin\Debug\Chat Application.pdb
+C:\Users\Jean-Baptiste\Documents\ECE\ING4\C#\ProjetChat\Chat Application\obj\Debug\Chat_Application.ChatMessageDisplay.resources
+F:\C#\Chat Application\Chat Application\bin\Debug\Chat Application.exe
+F:\C#\Chat Application\Chat Application\bin\Debug\Chat Application.pdb
+F:\C#\Chat Application\Chat Application\obj\Debug\Chat Application.csprojResolveAssemblyReference.cache
+F:\C#\Chat Application\Chat Application\obj\Debug\Chat_Application.Bumble.resources
+F:\C#\Chat Application\Chat Application\obj\Debug\Chat_Application.ChatMessageDisplay.resources
+F:\C#\Chat Application\Chat Application\obj\Debug\Chat_Application.Connection.resources
+F:\C#\Chat Application\Chat Application\obj\Debug\Chat_Application.Properties.Resources.resources
+F:\C#\Chat Application\Chat Application\obj\Debug\Chat_Application.TabChatClient.resources
+F:\C#\Chat Application\Chat Application\obj\Debug\Chat Application.csproj.GenerateResource.Cache
