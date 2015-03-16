@@ -32,3 +32,6 @@ F:\C#\Chat Application\Chat Application\obj\Debug\Chat_Application.Connection.re
 F:\C#\Chat Application\Chat Application\obj\Debug\Chat_Application.Properties.Resources.resources
 F:\C#\Chat Application\Chat Application\obj\Debug\Chat_Application.TabChatClient.resources
 F:\C#\Chat Application\Chat Application\obj\Debug\Chat Application.csproj.GenerateResource.Cache
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Chat Application\bin\Debug\Chat Application.exe.config
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Chat Application\obj\Debug\Chat Application.exe
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Chat Application\obj\Debug\Chat Application.pdb

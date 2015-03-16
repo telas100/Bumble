@@ -17,7 +17,7 @@ namespace Bumble_server
         public static string filename = "chans.xml";
         // Incoming data from the client.
         public static string data = null;
-        public static List<Client> clientList;
+        public static List<Client> clientList = new List<Client>();
         public static List<Channel> channelList;
 
         static void Main(string[] args)

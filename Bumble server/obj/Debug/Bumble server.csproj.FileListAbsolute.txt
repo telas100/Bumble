@@ -11,3 +11,10 @@ F:\C#\Chat Application\Bumble server\bin\Debug\Bumble server.exe
 F:\C#\Chat Application\Bumble server\bin\Debug\Bumble server.pdb
 F:\C#\Chat Application\Bumble server\obj\Debug\Bumble server.csprojResolveAssemblyReference.cache
 F:\C#\Chat Application\Bumble server\bin\Debug\Newtonsoft.Json.dll
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Bumble server\bin\Debug\Bumble server.exe.config
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Bumble server\obj\Debug\Bumble server.exe
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Bumble server\obj\Debug\Bumble server.pdb
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Bumble server\bin\Debug\Bumble server.exe
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Bumble server\bin\Debug\Bumble server.pdb
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Bumble server\bin\Debug\Newtonsoft.Json.dll
+D:\Données\Documents\Etudes\ECE\Ing4\C#\Bumble\Bumble server\obj\Debug\Bumble server.csprojResolveAssemblyReference.cache
